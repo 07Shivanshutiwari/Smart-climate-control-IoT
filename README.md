@@ -174,11 +174,6 @@ Fan speed can be **manually overridden** from the web dashboard at any time.
 
 ---
 
-## 👥 Team
-
-Built by a team of 4 as a college embedded systems project (Semester [X]), later extended with IoT and web dashboard capabilities.
-
----
 
 ## 📄 License
 
