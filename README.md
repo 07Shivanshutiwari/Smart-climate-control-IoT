@@ -6,7 +6,7 @@
 
 ## 📌 Overview
 
-This project was built as a college embedded systems project and later extended into a complete IoT solution. The system automatically controls fan speed based on ambient temperature using a NodeMCU (ESP8266) microcontroller, and exposes a live web dashboard for remote monitoring and manual override.
+This project was built as a standard embedded systems project and later extended into a complete IoT solution. The system automatically controls fan speed based on ambient temperature using a NodeMCU (ESP8266) microcontroller, and exposes a live web dashboard for remote monitoring and manual override.
 
 **Original hardware project features:**
 - Auto fan speed control based on temperature (PWM)
